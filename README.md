@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\Amir\Desktop\villa1.jpg" alt="amirsolo456 banner" />
+  <img src="channels4_banner.jpg" alt="amirsolo456 banner" />
 </p>
 
 <h1 align="center">سلام! من امیرم 👋</h1>
