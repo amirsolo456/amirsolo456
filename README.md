@@ -33,7 +33,7 @@
 
 #### 🎨 فرانت‌اند
 - .NET MAUI
-- Blazor (Basics)
+- Blazor
 - XAML
 - HTML / CSS / SCSS
 - Markup Design
