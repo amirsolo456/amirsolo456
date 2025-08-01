@@ -56,6 +56,13 @@
 
 ---
 
+### 📄 رزومه من
+
+- 🇮🇷 [دانلود رزومه فارسی (PDF)](./AmirSoleymani_CV_FA.pdf)
+- 🇬🇧 [Download English Resume (PDF)](./AmirSoleymani_CV_EN.pdf)
+
+---
+
 ### 📊 گیت‌هاب من
 
 <p align="center">
@@ -68,7 +75,7 @@
 
 ### 📬 ارتباط با من
 
-- 📧 ایمیل: [amirsol456@gmail.com](mailto:amirsol456@example.com)
+- 📧 ایمیل: [amirsol456@gmail.com](mailto:amirsol456@gmail.com)
 - 💼 لینکدین: [linkedin.com/in/amir-soleymani](https://www.linkedin.com/in/amir-soleymani-96b481336?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
