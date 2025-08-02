@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="villa1.jpg" alt="amirsolo456 banner" />
+  <img src="villa1.jpg" alt="بنر amirsolo456" width="100%" />
 </p>
 
 <h1 align="center">سلام! من امیرم 👋</h1>
 
 <p align="center">
-یک توسعه‌دهنده‌ی فول‌استک دات‌نت با علاقه به طراحی بهینه، معماری تمیز و رشد مداوم 💡
+توسعه‌دهنده‌ی فول‌استک دات‌نت با علاقه به طراحی بهینه، معماری تمیز و رشد مداوم 💡
 </p>
 
 ---
@@ -14,46 +14,33 @@
 
 - 🔧 تخصص در .NET Full Stack (از SQL تا UI)
 - 🌱 مسلط به معماری‌های نوین، Clean Code و اصول SOLID
-- 📱 تجربه عملی با .NET MAUI برای ساخت اپلیکیشن‌های کراس‌پلتفرم
-- 💬 عاشق طراحی UI/UX مینیمال با XAML، HTML ،Tailwind و CSS 
+- 📱 تجربه عملی با .NET MAUI برای ساخت اپ‌های کراس‌پلتفرم
+- 💬 عاشق طراحی UI/UX مینیمال با XAML، HTML، Tailwind و CSS
 - 🎯 دنبال توسعه‌ی ترکیبی از مهارت‌های بک‌اند، فرانت‌اند و تحلیل نرم‌افزار
 
 ---
 
-
 ### 💼 مهارت‌ها
 
 #### 🖥️ بک‌اند
-- C#
-- ASP.NET Core / Web API
-- Entity Framework Core
-- LINQ
-- SQL Server
-- RESTful API Design
-- Authentication & Authorization (JWT / OAuth)
+- `C#`, `ASP.NET Core`, `Web API`
+- `Entity Framework Core`, `LINQ`, `SQL Server`
+- طراحی RESTful API و احراز هویت (JWT / OAuth)
 
 #### 🎨 فرانت‌اند
-- .NET MAUI
-- Blazor
-- XAML
-- HTML / CSS / SCSS
-- Markup Design
-- MVVM Architecture
+- `XAML`, `.NET MAUI`, `Blazor`
+- `HTML`, `CSS`, `SCSS`, `Markup Design`
+- معماری MVVM و طراحی تعاملی
 
 #### 🛠️ ابزارها و DevOps
-- Git & GitHub
-- Azure DevOps (Basics)
-- Visual Studio / VS Code
-- Postman
-- Fiddler
-- Docker (مقدماتی)
+- `Git & GitHub`, `Azure DevOps (Basics)`
+- `Visual Studio`, `VS Code`, `Postman`, `Fiddler`
+- `Docker (مقدماتی)`
 
 #### 🧠 مفاهیم کلیدی
-- Dependency Injection
-- Clean Architecture
-- SOLID Principles
-- Async Programming
-- Unit Testing (xUnit, MSTest)
+- `Dependency Injection`, `Clean Architecture`
+- `SOLID Principles`, `Async Programming`
+- `Unit Testing` با `xUnit` و `MSTest`
 
 ---
 
@@ -64,25 +51,24 @@
 
 ---
 
-### 📊 گیت‌هاب من
+### 📊 آمار GitHub من
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirsolo456&show_icons=true&theme=blueberry" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=amirsolo456&show_icons=true&theme=blueberry" alt="GitHub stats" />
   <br />
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirsolo456&layout=compact&langs_count=6&theme=blueberry&card_width=470"/>   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirsolo456&layout=compact&langs_count=6&theme=blueberry&card_width=470" alt="Top languages" />
 </p>
- 
 
 ---
 
 ### 📬 ارتباط با من
 
 - 📧 ایمیل: [amirsol456@gmail.com](mailto:amirsol456@gmail.com)
-- 💼 لینکدین: [linkedin.com/in/amir-soleymani](https://www.linkedin.com/in/amir-soleymani-96b481336?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 💼 لینکدین: [linkedin.com/in/amir-soleymani](https://www.linkedin.com/in/amir-soleymani-96b481336)
 
 ---
 
 <p align="center">
-  ممنون که سر زدی 🙌
+  <strong>ممنون که وقت گذاشتی 🙌</strong><br />
+  <em>پیشنهادها و فیدبک‌هات باعث رشد من می‌شن 💙</em>
 </p>
