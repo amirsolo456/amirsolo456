@@ -20,6 +20,7 @@
 
 ---
 
+
 ### 💼 مهارت‌ها
 
 #### 🖥️ بک‌اند
@@ -66,10 +67,12 @@
 ### 📊 گیت‌هاب من
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirsolo456&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amirsolo456&show_icons=true&theme=blueberry" />  
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirsolo456&layout=compact&theme=radical" />
+ 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirsolo456&layout=compact&langs_count=6&theme=blueberry&card_width=470"/>   
 </p>
+ 
 
 ---
 
