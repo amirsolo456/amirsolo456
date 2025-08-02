@@ -59,8 +59,8 @@
 
 ### 📄 رزومه من
 
-- 🇮🇷 [دانلود رزومه فارسی (PDF)](./امیر_سلیمانی-en.pdf)
-- 🇬🇧 [Download English Resume (PDF)](./AmirSoleymani_CV_EN.pdf)
+- 🇮🇷 [دانلود رزومه فارسی (PDF)](./امیر_سلیمانی-fa.pdf)
+- 🇬🇧 [Download English Resume (PDF)](./امیر_سلیمانی-en.pdf)
 
 ---
 
