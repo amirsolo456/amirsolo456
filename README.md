@@ -65,6 +65,7 @@
 
 - 📧 ایمیل: [amirsol456@gmail.com](mailto:amirsol456@gmail.com)
 - 💼 لینکدین: [linkedin.com/in/amir-soleymani](https://www.linkedin.com/in/amir-soleymani-96b481336)
+- 📱 موبایل: [09109947300](tel:09109947300)
 
 ---
 
